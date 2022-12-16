@@ -1,5 +1,5 @@
 # VTIP-402 Balassanyan Vladimir var 5
 
-![screenshot](Screenshot)
-![screenshot](Screenshot1.png)
+![screenshot](Screenshot.png)
+![screenshot](Screenshot1.png.png)
 
